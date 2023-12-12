@@ -6,6 +6,7 @@
 - ☺️ Don't forget to chill
 
 <h3 align="left">Contact me on telegram: <a href="https://t.me/xaer981" target="_blank" rel="noopener noreferrer">@xaer981</a></h3>
+<h3 align="left">Or by email: <a href="mailto:xaer981@yandex.ru">xaer981@yandex.ru</a></h3>
 <p align="left">
 </p>
 
