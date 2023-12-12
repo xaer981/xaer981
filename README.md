@@ -5,7 +5,7 @@
 - Always try to get better
 - Don't forget to chill
 
-<h3 align="left">Contact me on telegram: <a href="https://t.me/xaer981">@xaer981</a></h3>
+<h3 align="left">Contact me on telegram: <a href="https://t.me/xaer981" target="_blank">@xaer981</a></h3>
 <p align="left">
 </p>
 
