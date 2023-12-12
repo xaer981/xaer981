@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yaroslav Petrovskikh</h1>
 <h3 align="center">A backend developer from Moscow, Russia</h3>
 
-- Love making apps that help people
-- Always try to get better
-- Don't forget to chill
+- 💟 Love making apps that help people
+- 📈 Always try to get better
+- ☺️ Don't forget to chill
 
-<h3 align="left">Contact me on telegram: <a href="https://t.me/xaer981" target="_blank">@xaer981</a></h3>
+<h3 align="left">Contact me on telegram: <a href="https://t.me/xaer981" target="_blank" rel="noopener noreferrer">@xaer981</a></h3>
 <p align="left">
 </p>
 
