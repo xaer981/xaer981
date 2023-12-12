@@ -9,6 +9,10 @@
 <p align="left">
 </p>
 
+<p align=center>
+  <a href="url"><img src="https://github.com/xaer981/xaer981/blob/main/main_cat.gif" align="center" height="40" width="128"></a>
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
@@ -29,10 +33,11 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 </p>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xaer981&show_icons=true&locale=en&layout=compact" alt="xaer981" /></p>
-
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaer981&show_icons=true&locale=en" alt="xaer981" /></p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaer981" alt="xaer981" /></a> </p>
-
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaer981&" alt="xaer981" /></p>
+<details>
+  <summary><h3 align="center">Stats</h3></summary>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaer981&show_icons=true&locale=en" alt="xaer981" /></p>
+  
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaer981" alt="xaer981" /></a> </p>
+  
+  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaer981&" alt="xaer981" /></p>
+</details>
