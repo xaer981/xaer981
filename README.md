@@ -35,7 +35,7 @@
 </p>
 
 <details>
-  <summary><h3 align="center">Stats</h3></summary>
+  <summary align="center">Stats</summary>
   <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaer981&show_icons=true&locale=en" alt="xaer981" /></p>
   
   <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xaer981" alt="xaer981" /></a> </p>
