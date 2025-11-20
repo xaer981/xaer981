@@ -17,6 +17,8 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://github.com/xaer981/xaer981/blob/main/python.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/xaer981/xaer981/blob/main/csharp.svg" alt="csharp" width="40" height="40"/> </a>
+  <a href="https://www.scrapy.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/xaer981/xaer981/blob/main/scrapy.svg" alt="scrapy" width="40" height="40"/> </a>
   <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/xaer981/xaer981/blob/main/fastapi.svg" alt="fastapi" width="40" height="40"/> </a>
   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/xaer981/xaer981/blob/main/django.svg" alt="django" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/xaer981/xaer981/blob/main/postgresql.svg" alt="postgresql" width="40" height="40"/> </a>
