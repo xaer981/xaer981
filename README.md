@@ -38,7 +38,5 @@
 
 <details>
   <summary align="center">Stats</summary>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xaer981&show_icons=true&locale=en" alt="xaer981" /></p>
-  
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaer981&" alt="xaer981" /></p>
 </details>
