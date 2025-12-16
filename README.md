@@ -35,8 +35,3 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/xaer981/xaer981/blob/main/git.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://github.com/xaer981/xaer981/blob/main/postman.svg" alt="postman" width="40" height="40"/> </a>
 </p>
-
-<details>
-  <summary align="center">Stats</summary>
-  <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xaer981&" alt="xaer981" /></p>
-</details>
