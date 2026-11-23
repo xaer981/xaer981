@@ -12,7 +12,7 @@ Backend and data engineer working with **Python and C#**. I build APIs, ETL pipe
 
 I also reverse engineer native libraries, Android applications, network protocols, and connected devices using Ghidra and Frida — turning undocumented behavior into practical tools.
 
-## Featured open-source project
+## Featured open-source projects
 
 ### [QUII Helper](https://github.com/xaer981/quii-helper)
 
@@ -24,6 +24,16 @@ Python toolkit for working with QUII / Qualvision-based cameras and video doorbe
 - Discover compatible devices and inspect device metadata.
 
 `Python` · `Reverse engineering` · `Ghidra` · `Frida` · `Networking` · `RTSP` · `FFmpeg`
+
+### [Legacy iPad USB Charging for Windows](https://github.com/xaer981/legacy-ipad-charge)
+
+Windows CLI that helps supported older iPads draw more USB power from a compatible PC while staying connected for data.
+
+- Run timed charging trials with an automatic return to 500 mA.
+- Save a current limit per USB port and enable charging for daily use.
+- Tested on iPad 2 GSM with Windows 11 x64. [Download for Windows](https://github.com/xaer981/legacy-ipad-charge/releases)
+
+`C#` · `.NET` · `Windows` · `USB` · `Reverse engineering`
 
 ## Core stack
 
