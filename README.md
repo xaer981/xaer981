@@ -25,15 +25,16 @@ Python toolkit for working with QUII / Qualvision-based cameras and video doorbe
 
 `Python` · `Reverse engineering` · `Ghidra` · `Frida` · `Networking` · `RTSP` · `FFmpeg`
 
-### [Legacy iPad USB Charging for Windows](https://github.com/xaer981/legacy-ipad-charge)
+### [Legacy iPad USB Charging](https://github.com/xaer981/legacy-ipad-charge)
 
-Windows CLI that helps supported older iPads draw more USB power from a compatible PC while staying connected for data.
+CLI that helps supported older iPads draw more USB power from a compatible PC while staying connected for data.
 
 - Run timed charging trials with an automatic return to 500 mA.
 - Save a current limit per USB port and enable charging for daily use.
-- Tested on iPad 2 GSM with Windows 11 x64. [Download for Windows](https://github.com/xaer981/legacy-ipad-charge/releases)
+- Tested on iPad 2 GSM with Windows 11 x64. Charging on native Linux still needs hardware testing.
+- Builds available for Windows x64 and Linux x64. [Download](https://github.com/xaer981/legacy-ipad-charge/releases)
 
-`C#` · `.NET` · `Windows` · `USB` · `Reverse engineering`
+`C#` · `.NET` · `Windows` · `Linux` · `USB` · `Reverse engineering`
 
 ## Core stack
 
